@@ -7,4 +7,4 @@ Projet pédagogique
 
 **GD1** Lisaa 2022/2023
 
-Cette branche va ajouté des fonction pour avoir des controles manette et une Ui configurable pour `#107c0f`**XBOX**, **PS5** ou **Clavié**
+Cette branche va ajouté des fonction pour avoir des controles manette et une Ui configurable pour **XBOX**, **PS5** ou **Clavié**
